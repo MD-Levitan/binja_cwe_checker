@@ -1,0 +1,18 @@
+{
+	"plugin": {
+		"name": "CWE checker",
+		"type": ["core", "ui"],
+		"api": "python3",
+		"description": "Plugin for cwe_checker ",
+		"longdescription": "",
+		"license": {
+			"name": "MIT",
+			"text": ""
+		},
+		"version": "0.1",
+		"author": "kusok",
+		"minimumBinaryNinjaVersion": {
+			"dev": "1.1.dev-1616"
+		}
+	}
+}
